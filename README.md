@@ -9,12 +9,14 @@
   <p align="center">
       <br>My Account Stats:
       <img src="https://github-readme-stats.vercel.app/api?username=FrosT2k5&count_private=true&show_icons=true&hide_title=true&hide=issues&layout=compact" />
-      <br><br>My Second Account Stats:
+      <br><br>My Second Account(SuperCosmicBeing) Stats:
       <img src="https://github-readme-stats.vercel.app/api?username=SuperCosmicBeing&count_private=true&show_icons=true&hide_title=true&hide=issues&layout=compact" />
   </p>
 </p>
-
-![](https://komarev.com/ghpvc/?username=FrosT2k5&color=green)
 <p align="center">
-Find out more about me on my website: https://frost2k5.games/
+<br><br><img src="https://komarev.com/ghpvc/?username=FrosT2k5&color=green" align="center"><br>
+Find out more about me:
+<a href="https://www.frost2k5.games/">
+  Click Here
+</a>
 </p>
