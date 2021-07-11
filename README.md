@@ -4,7 +4,7 @@
   </samp>
   <br>
   <p align="center">
-      <img src="https://github.com/FrosT2k5/FrosT2k5/raw/master/frost.png" width="200px">
+      <img src="https://github.com/FrosT2k5/FrosT2k5/raw/master/frost.png" width="250px">
   </p>
   <p align="center">
       <br>My Account Stats:
