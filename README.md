@@ -4,7 +4,7 @@
   </samp>
   <br>
   <p align="center">
-      <img src="https://github.com/FrosT2k5/FrosT2k5/raw/master/frost.png" width="250px">
+      <img src="https://github.com/FrosT2k5/FrosT2k5/raw/master/frost.png" width="275x">
   </p>
   <p align="center">
       <br>My Account Stats:<br>
@@ -17,6 +17,6 @@
 <br><br><img src="https://komarev.com/ghpvc/?username=FrosT2k5&color=green" align="center"><br>
 <br>Find out more about me:
 <a href="https://www.frost2k5.games/">
-  Click Here
+  My Website
 </a>
 </p>
