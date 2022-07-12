@@ -11,7 +11,7 @@
 <p align="center">
 <br><img src="https://komarev.com/ghpvc/?username=FrosT2k5&color=green" align="center"><br>
 <br>Find out more about me:
-<a href="https://www.frost2k5.games/">
+<a href="https://www.frost2k5.me/">
   My Website
 </a>
 </p>
