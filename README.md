@@ -1,7 +1,7 @@
 <p align="center">
   <p align="center">
       <img src="https://github.com/FrosT2k5/FrosT2k5/raw/master/frost.jpg" width="200px"> <br>
-      <h2 align="center">FrosT2k5</h2><br>
+      <h2 align="center">FrosT2k5</h2>
   </p>
   <p align="center">
       <br>My Account Stats:<br>
